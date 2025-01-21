@@ -1,8 +1,20 @@
 table, th, td {
+	width: 20.9%;
   border: 1px solid black;
   border-collapse: collapse;
 	
 }
-div{
+.tableHead{
+	background: hotpink;
+}
+.tableRow1{
 	width: 100%;
+	background: pink;
+}
+.tableRow2{
+
+	background: whitesmoke;
+}
+.tableRow3{
+	background: lightgray;
 }
