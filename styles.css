@@ -1,4 +1,19 @@
-table, th, td {
+  th,td{
+        border:1px solid black;
+       
+    }
+
+    th{
+        background-color: indianred;
+    }
+    table{
+        border-collapse: collapse;
+    }
+
+
+
+
+/* table, th, td {
 	width: 20.9%;
   border: 1px solid black;
   border-collapse: collapse;
@@ -18,3 +33,4 @@ table, th, td {
 .tableRow3{
 	background: lightgray;
 }
+ */
